@@ -6,6 +6,6 @@ This list is specifically created to use in generating passphrases (see https://
 * The words are SFW (no four letter words anyway, as per rule #2)
 * The words are filtered against a list of the 3000 most commonly used words, so we avoid keysmash words
 
-...with a dozen or so potentially triggering words also removed.
+...with a couple dozen or so potentially triggering words also removed.
 
-There are 1451 words in the list.
+There are 1444 words in the list.
