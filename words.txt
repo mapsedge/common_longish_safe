@@ -4,7 +4,6 @@ above
 abroad
 absence
 absolute
-abuse
 accept
 accident
 according
@@ -20,8 +19,6 @@ addition
 address
 admire
 admit
-adopt
-adoption
 advance
 advanced
 advantage
@@ -59,16 +56,12 @@ amazing
 among
 amount
 ancient
-anger
 angle
-angry
 animal
 ankle
 announce
 another
 answer
-anxiety
-anxious
 anybody
 anyone
 anything
@@ -101,7 +94,6 @@ assemble
 assembly
 assistant
 assure
-attack
 attempt
 attend
 attention
@@ -121,7 +113,6 @@ barrel
 barrier
 basket
 bathroom
-battle
 beard
 beast
 beautiful
@@ -163,7 +154,6 @@ blessing
 blind
 blink
 block
-blood
 board
 boast
 booth
@@ -182,7 +172,6 @@ brave
 bread
 break
 breakfast
-breast
 breath
 breathe
 breathing
@@ -378,7 +367,6 @@ darkness
 daughter
 deadly
 dealer
-death
 debate
 decent
 decide
@@ -451,7 +439,6 @@ drinking
 drive
 driving
 drown
-drunk
 during
 dying
 eager
@@ -1366,12 +1353,9 @@ twentieth
 twenty
 twice
 twist
-unable
 uncertain
 uncle
 under
-unfair
-unhappy
 unknown
 unless
 unlike
@@ -1395,8 +1379,6 @@ vessel
 victim
 victory
 village
-violence
-violent
 virtue
 visible
 vision
